@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="src.game.alien_invasion.setting" />
+          <option value="src.game.game_functions.ai_settings" />
         </list>
       </option>
     </inspection_tool>
